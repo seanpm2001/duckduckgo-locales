@@ -422,6 +422,9 @@ msgstr "Adresa është e pasaktë"
 msgid "Ads"
 msgstr "Reklama"
 
+msgid "Advertise on Search"
+msgstr ""
+
 msgctxt "feedback form"
 msgid "Advertisements"
 msgstr "Reklama"
@@ -682,6 +685,10 @@ msgid "Auto-Suggest"
 msgstr "Sugjerime të Automatizuara"
 
 msgctxt "settings"
+msgid "Auto-answer"
+msgstr ""
+
+msgctxt "settings"
 msgid "Autocomplete Suggestions"
 msgstr "Vetëplotëso Sugjerimet"
 
@@ -689,6 +696,13 @@ msgstr "Vetëplotëso Sugjerimet"
 msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
 msgstr "Hap automatikisht Përgjigje të Menjëhershme që kanë lidhje"
+
+msgctxt "settings"
+msgid ""
+"Automatically shows DuckAssist for relevant searches. DuckAssist can "
+"anonymously look up and summarize information in response to some searches. "
+"For now, DuckAssist is only available in English regions."
+msgstr ""
 
 #. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
@@ -1892,6 +1906,14 @@ msgstr ""
 msgid "Duck it"
 msgstr ""
 
+msgctxt "settings"
+msgid "DuckAssist"
+msgstr ""
+
+msgctxt "settings"
+msgid "DuckAssist <sup>BETA</sup>"
+msgstr ""
+
 #. this is either the title that gets created by opening https://duckduckgo.com/duckduckbot or the top header in https://duckduckgo.com/duckduckbot
 msgid "DuckDuckGo Bot"
 msgstr "Robot DuckDuckGo"
@@ -2032,6 +2054,10 @@ msgstr "Aktivizoni Ruajtje Në Re, duke dhënë frazëkalimin tuaj ekzistues."
 msgctxt "precise_user_location"
 msgid "Enable Location"
 msgstr "Aktivizoni Vendndodhje"
+
+msgctxt "new tab page"
+msgid "Enable Most Visited Sites"
+msgstr "Aktivizo Sajtet Më të Vizituar"
 
 msgid ""
 "Enable anonymous location for more accurate results. You can always change "
@@ -2736,6 +2762,10 @@ msgstr "Ja disa gjëra që kemi bërë dhe që mund t’ju pëlqejnë."
 msgctxt "welcome message"
 msgid "Here's what it does:"
 msgstr "Ja se ç’bën:"
+
+msgctxt "new tab page"
+msgid "Hide Most Visited Sites"
+msgstr "Fshihi Sajtet Më të Vizituar"
 
 msgctxt "new tab page"
 msgid "Hide Most-Visited Sites"
@@ -3914,6 +3944,10 @@ msgid "Netherlands"
 msgstr "Holandë"
 
 msgctxt "settings"
+msgid "New Tab Page Most Visited Sites"
+msgstr "Faqe Skedë e Re Me Sajtet Më të Vizituar"
+
+msgctxt "settings"
 msgid "New Tab Page Most-Visited Sites"
 msgstr ""
 
@@ -4936,6 +4970,12 @@ msgid "Remember my choice (this can be changed in %s%s%sSettings%s)"
 msgstr ""
 "Mbaj mend zgjedhjen time (kjo mund të ndryshohet te %s%s%sRregullime%s)"
 
+msgctxt "settings"
+msgid ""
+"Removes the \"Ask\" button so answers appear automatically in response to "
+"relevant searches. Cached answers always display automatically."
+msgstr ""
+
 msgctxt "ads"
 msgid "Report Ad"
 msgstr "Raportoni Reklamë"
@@ -5631,6 +5671,10 @@ msgstr ""
 "Shfaq lidhje për te udhëzime se si të shtohet DuckDuckGo te shfletuesi juaj"
 
 msgctxt "settings"
+msgid "Shows most visited links on new tab page"
+msgstr "Shfaq në një faqe të re skedë lidhjet më të vizituara"
+
+msgctxt "settings"
 msgid "Shows most-visited links on new tab page"
 msgstr ""
 
@@ -5754,6 +5798,13 @@ msgstr "Diç shkoi ters me ruajtjen te shërbyesi, ju lutemi, riprovoni."
 
 msgid "Sorry, no results here."
 msgstr "Na ndjeni, s’ka përfundime këtu."
+
+#. Inform the users that "something" went wrong and that they could try to refresh the page to resolve the error. Placeholders are for markup, please ignore.
+msgctxt "noresults"
+msgid ""
+"Sorry, we ran into an error displaying these results. %sClick here%s to try "
+"again."
+msgstr ""
 
 #. The main message for when the feedback form failed to send. For example, if the user lost connectivity.
 msgctxt "feedback form"
@@ -6470,6 +6521,16 @@ msgstr "Shtypni %sDuckDuckGo%s te %sfusha e parë e formularit"
 msgid "Type %sduckduckgo.com%s in the %ssecond form field"
 msgstr "Shtypni %sduckduckgo%s te %sfusha e dytë e formularit"
 
+msgctxt "settings"
+msgid ""
+"Types out DuckAssist answers as they're generated. Turning this off may "
+"result in a short delay between a search and the answer being displayed."
+msgstr ""
+
+msgctxt "settings"
+msgid "Typing Animation"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "URL Color"
@@ -6733,7 +6794,7 @@ msgctxt "Sports module"
 msgid "W-L"
 msgstr "F-H"
 
-#. Indicates this is the gap between a leading team and another team in the Wild Card view (https://en.wikipedia.org/wiki/Games_behind#Wild_card_race)
+#. Indicates this is the gap between a leading team and another team in the Wild Card view (https://en.wikipedia.org/wiki/Games_behind#Wild_card_race). The acronym stands for Wild Card Games Behind.
 msgctxt "Sports module"
 msgid "WCGB"
 msgstr ""
@@ -7451,19 +7512,3 @@ msgstr "kundër"
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "vt"
-
-#~ msgctxt "new tab page"
-#~ msgid "Enable Most Visited Sites"
-#~ msgstr "Aktivizo Sajtet Më të Vizituar"
-
-#~ msgctxt "new tab page"
-#~ msgid "Hide Most Visited Sites"
-#~ msgstr "Fshihi Sajtet Më të Vizituar"
-
-#~ msgctxt "settings"
-#~ msgid "New Tab Page Most Visited Sites"
-#~ msgstr "Faqe Skedë e Re Me Sajtet Më të Vizituar"
-
-#~ msgctxt "settings"
-#~ msgid "Shows most visited links on new tab page"
-#~ msgstr "Shfaq në një faqe të re skedë lidhjet më të vizituara"

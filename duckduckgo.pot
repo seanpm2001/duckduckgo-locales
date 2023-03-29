@@ -503,6 +503,10 @@ msgid "Ads"
 msgstr ""
 
 # smartling.placeholder_format=C
+msgid "Advertise on Search"
+msgstr ""
+
+# smartling.placeholder_format=C
 msgctxt "feedback form"
 msgid "Advertisements"
 msgstr ""
@@ -816,6 +820,11 @@ msgstr ""
 
 # smartling.placeholder_format=C
 msgctxt "settings"
+msgid "Auto-answer"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "settings"
 msgid "Autocomplete Suggestions"
 msgstr ""
 
@@ -823,6 +832,14 @@ msgstr ""
 #. http://i.imgur.com/OZIO1I9.png
 msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "settings"
+msgid ""
+"Automatically shows DuckAssist for relevant searches. DuckAssist can "
+"anonymously look up and summarize information in response to some searches. "
+"For now, DuckAssist is only available in English regions."
 msgstr ""
 
 # smartling.placeholder_format=C
@@ -2264,6 +2281,16 @@ msgid "Duck it"
 msgstr ""
 
 # smartling.placeholder_format=C
+msgctxt "settings"
+msgid "DuckAssist"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "settings"
+msgid "DuckAssist <sup>BETA</sup>"
+msgstr ""
+
+# smartling.placeholder_format=C
 #. this is either the title that gets created by opening https://duckduckgo.com/duckduckbot or the top header in https://duckduckgo.com/duckduckbot
 msgid "DuckDuckGo Bot"
 msgstr ""
@@ -2415,6 +2442,11 @@ msgstr ""
 # smartling.placeholder_format=C
 msgctxt "precise_user_location"
 msgid "Enable Location"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "new tab page"
+msgid "Enable Most Visited Sites"
 msgstr ""
 
 # smartling.placeholder_format=C
@@ -3262,6 +3294,11 @@ msgstr ""
 #. shown after the DuckDuckGo extension is installed
 msgctxt "welcome message"
 msgid "Here's what it does:"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "new tab page"
+msgid "Hide Most Visited Sites"
 msgstr ""
 
 # smartling.placeholder_format=C
@@ -4660,6 +4697,11 @@ msgstr ""
 
 # smartling.placeholder_format=C
 msgctxt "settings"
+msgid "New Tab Page Most Visited Sites"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "settings"
 msgid "New Tab Page Most-Visited Sites"
 msgstr ""
 
@@ -5901,6 +5943,13 @@ msgid "Remember my choice (this can be changed in %s%s%sSettings%s)"
 msgstr ""
 
 # smartling.placeholder_format=C
+msgctxt "settings"
+msgid ""
+"Removes the \"Ask\" button so answers appear automatically in response to "
+"relevant searches. Cached answers always display automatically."
+msgstr ""
+
+# smartling.placeholder_format=C
 msgctxt "ads"
 msgid "Report Ad"
 msgstr ""
@@ -6728,6 +6777,11 @@ msgstr ""
 
 # smartling.placeholder_format=C
 msgctxt "settings"
+msgid "Shows most visited links on new tab page"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "settings"
 msgid "Shows most-visited links on new tab page"
 msgstr ""
 
@@ -6874,6 +6928,14 @@ msgstr ""
 
 # smartling.placeholder_format=C
 msgid "Sorry, no results here."
+msgstr ""
+
+# smartling.placeholder_format=C
+#. Inform the users that "something" went wrong and that they could try to refresh the page to resolve the error. Placeholders are for markup, please ignore.
+msgctxt "noresults"
+msgid ""
+"Sorry, we ran into an error displaying these results. %sClick here%s to try "
+"again."
 msgstr ""
 
 # smartling.placeholder_format=C
@@ -7730,6 +7792,18 @@ msgstr ""
 #  Chrome default search engine instruction
 # smartling.placeholder_format=C
 msgid "Type %sduckduckgo.com%s in the %ssecond form field"
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "settings"
+msgid ""
+"Types out DuckAssist answers as they're generated. Turning this off may "
+"result in a short delay between a search and the answer being displayed."
+msgstr ""
+
+# smartling.placeholder_format=C
+msgctxt "settings"
+msgid "Typing Animation"
 msgstr ""
 
 # smartling.placeholder_format=C

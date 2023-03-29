@@ -426,6 +426,9 @@ msgstr ""
 msgid "Ads"
 msgstr "Reklame"
 
+msgid "Advertise on Search"
+msgstr ""
+
 msgctxt "feedback form"
 msgid "Advertisements"
 msgstr "Reklame"
@@ -684,6 +687,10 @@ msgid "Auto-Suggest"
 msgstr "Automatski prijedlozi"
 
 msgctxt "settings"
+msgid "Auto-answer"
+msgstr ""
+
+msgctxt "settings"
 msgid "Autocomplete Suggestions"
 msgstr "Prijedlozi za automatsko ispunjavanje"
 
@@ -691,6 +698,13 @@ msgstr "Prijedlozi za automatsko ispunjavanje"
 msgctxt "settings"
 msgid "Automatically open relevant Instant Answers"
 msgstr "Automatski otvori relevantne instant odgovore"
+
+msgctxt "settings"
+msgid ""
+"Automatically shows DuckAssist for relevant searches. DuckAssist can "
+"anonymously look up and summarize information in response to some searches. "
+"For now, DuckAssist is only available in English regions."
+msgstr ""
 
 #. Used to show the numerical rating, when the user hovers over a visual star-rating. Sorry, this is hard to translate.
 msgctxt "homepage ATB social proof"
@@ -1861,6 +1875,14 @@ msgstr ""
 msgid "Duck it"
 msgstr "Zapatkaj"
 
+msgctxt "settings"
+msgid "DuckAssist"
+msgstr ""
+
+msgctxt "settings"
+msgid "DuckAssist <sup>BETA</sup>"
+msgstr ""
+
 #. this is either the title that gets created by opening https://duckduckgo.com/duckduckbot or the top header in https://duckduckgo.com/duckduckbot
 msgid "DuckDuckGo Bot"
 msgstr "DuckDuckGo – bot"
@@ -1999,6 +2021,10 @@ msgstr "Omogućite čuvanje u oblak unošenjem postojeće lozinke."
 msgctxt "precise_user_location"
 msgid "Enable Location"
 msgstr "Omogući lokaciju"
+
+msgctxt "new tab page"
+msgid "Enable Most Visited Sites"
+msgstr "Omogući najposjećenije sajtove"
 
 msgid ""
 "Enable anonymous location for more accurate results. You can always change "
@@ -2692,6 +2718,10 @@ msgstr "Ovdje su neke stvari koje smo napravili koje bi Vam se mogle svidjeti."
 msgctxt "welcome message"
 msgid "Here's what it does:"
 msgstr "Evo šta radi:"
+
+msgctxt "new tab page"
+msgid "Hide Most Visited Sites"
+msgstr "Sakrij najposjećenije sajtove"
 
 msgctxt "new tab page"
 msgid "Hide Most-Visited Sites"
@@ -3844,6 +3874,10 @@ msgid "Netherlands"
 msgstr "Nizozemska"
 
 msgctxt "settings"
+msgid "New Tab Page Most Visited Sites"
+msgstr "Stranica nove kartice najposjećenijih sajtova"
+
+msgctxt "settings"
 msgid "New Tab Page Most-Visited Sites"
 msgstr ""
 
@@ -4855,6 +4889,12 @@ msgstr ""
 msgid "Remember my choice (this can be changed in %s%s%sSettings%s)"
 msgstr "Zapamti moj izbor (možete kasnije promijeniti u %s%s%sPostavkama%s)"
 
+msgctxt "settings"
+msgid ""
+"Removes the \"Ask\" button so answers appear automatically in response to "
+"relevant searches. Cached answers always display automatically."
+msgstr ""
+
 msgctxt "ads"
 msgid "Report Ad"
 msgstr "Prijavi reklamu"
@@ -5519,6 +5559,10 @@ msgid "Shows links to instructions for how to add DuckDuckGo to your browser"
 msgstr "Prikazuje linkove ka uputstvima kako dodati DuckDuckGo u pregledač"
 
 msgctxt "settings"
+msgid "Shows most visited links on new tab page"
+msgstr "Prikazuje najposjećenije linkove na stranici nove kartice"
+
+msgctxt "settings"
 msgid "Shows most-visited links on new tab page"
 msgstr ""
 
@@ -5645,6 +5689,13 @@ msgstr ""
 
 msgid "Sorry, no results here."
 msgstr "Nažalost nema rezultata."
+
+#. Inform the users that "something" went wrong and that they could try to refresh the page to resolve the error. Placeholders are for markup, please ignore.
+msgctxt "noresults"
+msgid ""
+"Sorry, we ran into an error displaying these results. %sClick here%s to try "
+"again."
+msgstr ""
 
 #. The main message for when the feedback form failed to send. For example, if the user lost connectivity.
 msgctxt "feedback form"
@@ -6355,6 +6406,16 @@ msgstr "Upišite %sDuckDuckGo%s u prvo %spolje obrasca"
 msgid "Type %sduckduckgo.com%s in the %ssecond form field"
 msgstr "Upišite %sduckduckgo.com%s u %sdrugo polje obrasca"
 
+msgctxt "settings"
+msgid ""
+"Types out DuckAssist answers as they're generated. Turning this off may "
+"result in a short delay between a search and the answer being displayed."
+msgstr ""
+
+msgctxt "settings"
+msgid "Typing Animation"
+msgstr ""
+
 #. This is the name of a user setting
 msgctxt "settings"
 msgid "URL Color"
@@ -6611,7 +6672,7 @@ msgctxt "Sports module"
 msgid "W-L"
 msgstr ""
 
-#. Indicates this is the gap between a leading team and another team in the Wild Card view (https://en.wikipedia.org/wiki/Games_behind#Wild_card_race)
+#. Indicates this is the gap between a leading team and another team in the Wild Card view (https://en.wikipedia.org/wiki/Games_behind#Wild_card_race). The acronym stands for Wild Card Games Behind.
 msgctxt "Sports module"
 msgid "WCGB"
 msgstr ""
@@ -7309,22 +7370,6 @@ msgstr ""
 msgctxt "published date for videos"
 msgid "yr"
 msgstr "god"
-
-#~ msgctxt "new tab page"
-#~ msgid "Enable Most Visited Sites"
-#~ msgstr "Omogući najposjećenije sajtove"
-
-#~ msgctxt "new tab page"
-#~ msgid "Hide Most Visited Sites"
-#~ msgstr "Sakrij najposjećenije sajtove"
-
-#~ msgctxt "settings"
-#~ msgid "New Tab Page Most Visited Sites"
-#~ msgstr "Stranica nove kartice najposjećenijih sajtova"
-
-#~ msgctxt "settings"
-#~ msgid "Shows most visited links on new tab page"
-#~ msgstr "Prikazuje najposjećenije linkove na stranici nove kartice"
 
 #~ msgctxt "SERP footer content"
 #~ msgid "We don't store your search history or follow you around the web."
